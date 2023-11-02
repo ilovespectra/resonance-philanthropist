@@ -42,6 +42,7 @@ import {
   TokenBurnGuardSettings,
 } from "@metaplex-foundation/js"
 import { u32 } from "@metaplex-foundation/beet"
+import allowList from "../allowlist.json"
 
 export const CANDY_MACHINE_PROGRAM = PROGRAM_ID
 export const METAPLEX_PROGRAM_ID = new PublicKey(
