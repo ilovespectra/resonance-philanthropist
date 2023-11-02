@@ -1,6 +1,6 @@
 # Resonance Philanthropist
 
-Mint UI for Resonance Philanthropist NFTs
+Mint UI for Resonance Philanthropist NFTs.
 
 To setup a Candy Machine:
 
