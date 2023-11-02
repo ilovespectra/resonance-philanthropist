@@ -1,3 +1,7 @@
+# Resonance Philanthropist
+
+Mint UI for Resonance Philanthropist NFTs
+
 To setup a Candy Machine:
 
 - Create your Candy Machine using [Sugar](https://docs.metaplex.com/programs/candy-machine/how-to-guides/my-first-candy-machine-part1) (now supports pNFTs)
